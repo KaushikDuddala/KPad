@@ -19,23 +19,22 @@ The KPad is a simple macropad made by me just to learn the process and hopefully
 
 ## Final Design
 
-
-![Full Design](https://github.com/KaushikDuddala/KPAD/images/fullDesign.png)
+![Full Design](https://github.com/KaushikDuddala/KPad/blob/main/images/fullDesign.png?raw=true)
 
 
 ## PCB Design:
 
 
-![Schematic](https://github.com/KaushikDuddala/KPad/images/schematic.png)
-![PCB Design](https://github.com/KaushikDuddala/KPad/images/pcbDesign.png)
-![PCB 3D Model](https://github.com/KaushikDuddaka/KPad/images/3DPCB.png)
+![Schematic](https://github.com/KaushikDuddala/KPad/blob/main/images/schematic.png?raw=true)
+![PCB Design](https://github.com/KaushikDuddala/KPad/blob/main/images/PCBDesign.png?raw=true)
+![PCB 3D Model](https://github.com/KaushikDuddala/KPad/blob/main/images/3DPCB.png?raw=true)
 
 ## Case:
 
-![Bottom Half P1](https://github.com/KaushikDuddala/KPad/images/caseBottom1.png)
-![Bottom Half P2](https://github.com/KaushikDuddala/KPad/images/caseBottom2.png)
-![Top Half P1](https://github.com/KaushikDuddala/KPad/images/caseTop1.png)
-![Top Half P2](https://github.com/KaushikDuddala/KPad/images/caseTop2.png)
+![Bottom Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom1.png?raw=true)
+![Bottom Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom2.png?raw=true)
+![Top Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop1.png?raw=true)
+![Top Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop2.png?raw=true)
 
 ## Bill of Materials (BOM):
 
@@ -46,22 +45,22 @@ The KPad is a simple macropad made by me just to learn the process and hopefully
 ## Final Design
 
 
-![Full Design](https://github.com/KaushikDuddala/KPAD/images/fullDesign.png)
+![Full Design](https://github.com/KaushikDuddala/KPad/blob/main/images/fullDesign.png?raw=true)
 
 
 ## PCB Design:
 
 
-![Schematic](https://github.com/KaushikDuddala/KPad/images/schematic.png)
-![PCB Design](https://github.com/KaushikDuddala/KPad/images/PCBDesign.png)
-![PCB 3D Model](https://github.com/KaushikDuddaka/KPad/images/3DPCB.png)
+![Schematic](https://github.com/KaushikDuddala/KPad/blob/main/images/schematic.png?raw=true)
+![PCB Design](https://github.com/KaushikDuddala/KPad/blob/main/images/PCBDesign.png?raw=true)
+![PCB 3D Model](https://github.com/KaushikDuddala/KPad/blob/main/images/3DPCB.png?raw=true)
 
 ## Case:
 
-![Bottom Half P1](https://github.com/KaushikDuddala/KPad/images/caseBottom1.png)
-![Bottom Half P2](https://github.com/KaushikDuddala/KPad/images/caseBottom2.png)
-![Top Half P1](https://github.com/KaushikDuddala/KPad/images/caseTop1.png)
-![Top Half P2](https://github.com/KaushikDuddala/KPad/images/caseTop2.png)
+![Bottom Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom1.png?raw=true)
+![Bottom Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom2.png?raw=true)
+![Top Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop1.png?raw=true)
+![Top Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop2.png?raw=true)
 
 ## Bill of Materials (BOM):
 
