@@ -26,7 +26,7 @@ The KPad is a simple macropad made by me just to learn the process and hopefully
 
 
 ![Schematic](https://github.com/KaushikDuddala/KPad/blob/main/images/schematic.png?raw=true)
-![PCB Design](https://github.com/KaushikDuddala/KPad/blob/main/images/PCBDesign.png?raw=true)
+![PCB Design](https://github.com/KaushikDuddala/KPad/blob/main/images/pcbDesign.png?raw=true)
 ![PCB 3D Model](https://github.com/KaushikDuddala/KPad/blob/main/images/3DPCB.png?raw=true)
 
 ## Case:
