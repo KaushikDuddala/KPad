@@ -38,32 +38,6 @@ The KPad is a simple macropad made by me just to learn the process and hopefully
 
 ## Bill of Materials (BOM):
 
-# KPad v1!
-
-The KPad is a simple macropad made by me just to learn the process and hopefully make revisions or a full keyboard in the future!! This was made using KMK, KiCad, Fusion 360, and more. 
-
-## Final Design
-
-
-![Full Design](https://github.com/KaushikDuddala/KPad/blob/main/images/fullDesign.png?raw=true)
-
-
-## PCB Design:
-
-
-![Schematic](https://github.com/KaushikDuddala/KPad/blob/main/images/schematic.png?raw=true)
-![PCB Design](https://github.com/KaushikDuddala/KPad/blob/main/images/PCBDesign.png?raw=true)
-![PCB 3D Model](https://github.com/KaushikDuddala/KPad/blob/main/images/3DPCB.png?raw=true)
-
-## Case:
-
-![Bottom Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom1.png?raw=true)
-![Bottom Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseBottom2.png?raw=true)
-![Top Half P1](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop1.png?raw=true)
-![Top Half P2](https://github.com/KaushikDuddala/KPad/blob/main/images/caseTop2.png?raw=true)
-
-## Bill of Materials (BOM):
-
 
 - x9 1N4148 Diodes
 - x8 Cherry MX switches
